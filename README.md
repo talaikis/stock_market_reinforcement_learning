@@ -1,5 +1,5 @@
 # OpenAI Gym Trading Environment with DRL
-## using Keras on Python 3.6
+# using Keras on Python 3.6
 
 ## Overview
 
