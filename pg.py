@@ -1,8 +1,8 @@
 from os import system
 from os.path import dirname, join
-from sys import argb
+from sys import argv
 import codecs
-from numpy import random, zeros, zeros_like, sum, vstack, arrayc, std, mean, minimum, maximum
+from numpy import random, zeros, zeros_like, sum, vstack, array, std, mean, minimum, maximum
 from keras.optimizers import SGD
 from keras.models import model_from_json
 
