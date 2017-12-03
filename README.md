@@ -18,8 +18,9 @@ This fork uses [stock_market_reinforcement_learning](https://github.com/kh-kim/s
  
  - Ready for Python 3.6+
  - Uses Tennsorflow backend
- - Improves compliance to PEP8, multi-platform usae cases
- - Implements testing
+ - Improves PEP8 compliance
+ - Windows ready
+ - Implements testing period
 
 ## Requirements
 
@@ -30,7 +31,11 @@ This fork uses [stock_market_reinforcement_learning](https://github.com/kh-kim/s
 - Tensorflow
 - OpenAI Gym
 
-## Usage
+## How to use
+
+Install
+
+	$ pip install -r requirements.txt
 
 Train Deep Q-learning:
 
