@@ -29,7 +29,7 @@ def test(loaded_model, X, Y):
     print("%s: %.2f%%" % (loaded_model.metrics_names[1], score[1]*100))
 
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     portfolio_filename = argv[1]
     model_filename = argv[2]
 
